@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.rating-text{
+  color: aqua;
+}
+.rating{
+  color: purple;
+}
+ 
+.img-size{
+  height: 320px;
+  width: 320px;
+}
+ .row-name{
+  width: 200px;
+  height: 20px;
+  line-height: 20px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+ }
+ .pro-rating{
+  justify-content: space-between;
+  align-items: space-between;
+  background-color: red;
+  background-color: red;
+ 
+ }
