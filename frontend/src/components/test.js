@@ -1,1 +1,0 @@
-import {FaShoppingCart,FaUser} from 'react-icons/fa'

@@ -22,6 +22,17 @@ code {
   height: 320px;
   width: 320px;
 }
+.imgg{
+  height: 320px;
+  width: 320px;
+  transition: width 2s, height 2s, transform 2s;
+}
+.imgg:hover{
+  width: 340px;
+  height: 340px;
+  
+ 
+}
  .row-name{
   width: 200px;
   height: 20px;
